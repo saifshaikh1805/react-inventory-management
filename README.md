@@ -1,5 +1,7 @@
 # Inventory Management
 A web app to maintain stocks across warehouses.
+Built on: ReactJs
+Database: firestore
 
 # SCREENS
 
