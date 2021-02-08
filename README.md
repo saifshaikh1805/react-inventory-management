@@ -1,6 +1,6 @@
 # Inventory Management
 A web app to maintain stocks across warehouses.
-<br/>
+<br/><br/>
 Technologies used:
 <br/>
 1. ReactJs
