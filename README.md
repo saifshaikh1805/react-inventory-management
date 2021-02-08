@@ -1,7 +1,9 @@
-# react-inventory-management
-A web app to maintain stocks across warehouses
 # Inventory Management
 A web app to maintain stocks across warehouses.
+
+# Technologies used
+1. ReactJs
+2. Firestore
 
 # SCREENS
 
