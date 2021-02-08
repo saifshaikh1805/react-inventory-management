@@ -1,45 +1,70 @@
-# Inventory Management
-A web app to maintain stocks across warehouses.
-<br/><br/>
-Technologies used:
-<br/>
-1. ReactJs
-2. Firestore
+# Getting Started with Create React App
 
-# SCREENS
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Products list 
-![Products List](https://i.imgur.com/t8vdFDY.jpg)
+## Available Scripts
 
-# Add Product 
-![Add Product](https://i.imgur.com/uzlAjDC.jpg)
+In the project directory, you can run:
 
-# Edit Product
-![Edit Product](https://i.imgur.com/RdjEtDe.jpg)
+### `npm start`
 
-# Complete balance report
-The following view gives a report of balance qty of each product in each wareshouse with a dedicated 'Export to excel button'
-![Complete balance report](https://i.imgur.com/5VmWwib.jpg)
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-# Particular product balance qty in each location
-The following view gives a report of balance qty of a particular product in each wareshouse
-![Complete balance report](https://i.imgur.com/NDmyP7i.jpg)
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
-# Movements
-The following view displays a list of all the movements logged in the descending of their last modified date.
-![Complete balance report](https://i.imgur.com/AtYhWls.jpg)
+### `npm test`
 
-# Add movement
-![Add movement](https://i.imgur.com/TCeikm4.jpg)
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-# Edit movement
-![Edit movement](https://i.imgur.com/owY48Vk.jpg)
+### `npm run build`
 
-# Locations
-![All Locations](https://i.imgur.com/PBhu0XI.jpg)
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-# Add location
-![Add location](https://i.imgur.com/2SmW8Ie.jpg)
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-# Edit location
-![Edit location](https://i.imgur.com/oe2Y0Oc.jpg)
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
